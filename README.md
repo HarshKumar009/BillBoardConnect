@@ -18,7 +18,8 @@ With a focus on **user-friendliness** and **transparency**, Billboard Connect si
 
 ### APP UI
 ![](./assets/screenshots/ui.png)
-![](./assets/screenshots/billboard1.png)
+
+
 ![](./assets/screenshots/billboard_2.jpg)
 ![](./assets/screenshots/billboard_3.jpg)
 
