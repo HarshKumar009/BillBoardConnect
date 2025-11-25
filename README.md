@@ -17,14 +17,15 @@ With a focus on **user-friendliness** and **transparency**, Billboard Connect si
 ### Screenshots
 
 ### APP UI
-![](https://raw.githubusercontent.com/username/repo/main/assets/screenshots/ui.png)  
-![](https://raw.githubusercontent.com/username/repo/main/assets/screenshots/billboard1.png)  
-![](https://raw.githubusercontent.com/username/repo/main/assets/screenshots/billboard_2.jpg)  
-![](https://raw.githubusercontent.com/username/repo/main/assets/screenshots/billboard_3.jpg)  
+![](./assets/screenshots/ui.png)
+![](./assets/screenshots/billboard1.png)
+![](./assets/screenshots/billboard_2.jpg)
+![](./assets/screenshots/billboard_3.jpg)
+
 ### Dashboard UI
-![](https://raw.githubusercontent.com/username/repo/main/assets/screenshots/admin_1.png)
-![](https://raw.githubusercontent.com/username/repo/main/assets/screenshots/admin_2.png)
-![](https://raw.githubusercontent.com/username/repo/main/assets/screenshots/admin_3.png)
+![](./assets/screenshots/admin_1.png)
+![](./assets/screenshots/admin_2.png)
+![](./assets/screenshots/admin_3.png)
 
 ---
 
